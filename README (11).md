@@ -6,7 +6,7 @@ I developed a sophisticated yet user-friendly educational project aimed at teach
 
 ## Screenshots
 
-![App Screenshot](https://github.com/zaidaslam99/50_FrontEnd_Projects/blob/main/age_calc_screenshot.png)
+![App Screenshot](https://github.com/zaidaslam99/Age-Calculator-Project/blob/main/age_calc_screenshot.png)
 
 
 ## Lessons Learned
